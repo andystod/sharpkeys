@@ -743,7 +743,7 @@ namespace SharpKeys
       m_hashKeys.Add("00_53", "Num: .");
       m_hashKeys.Add("00_54", "Unknown: 0x0054");
       m_hashKeys.Add("00_55", "Unknown: 0x0055");
-      m_hashKeys.Add("00_56", "Unknown: 0x0056");
+      m_hashKeys.Add("00_56", "Key: Extra button near shift key");
       m_hashKeys.Add("00_57", "Function: F11");
       m_hashKeys.Add("00_58", "Function: F12");
       m_hashKeys.Add("00_59", "Unknown: 0x0059");
@@ -761,10 +761,10 @@ namespace SharpKeys
       m_hashKeys.Add("00_64", "Function: F13");
       m_hashKeys.Add("00_65", "Function: F14");
       m_hashKeys.Add("00_66", "Function: F15");
-      m_hashKeys.Add("00_67", "Unknown: 0x0067");
-      m_hashKeys.Add("00_68", "Unknown: 0x0068");
-      m_hashKeys.Add("00_69", "Unknown: 0x0069");
-      m_hashKeys.Add("00_6A", "Unknown: 0x006A");
+      m_hashKeys.Add("00_67", "Function: F16"); // Apple keyboard has F-keys up to F19
+      m_hashKeys.Add("00_68", "Function: F17");
+      m_hashKeys.Add("00_69", "Function: F18");
+      m_hashKeys.Add("00_6A", "Function: F19");
       m_hashKeys.Add("00_6B", "Unknown: 0x006B");
       m_hashKeys.Add("00_6C", "Unknown: 0x006C");
       m_hashKeys.Add("00_6D", "Unknown: 0x006D");
@@ -784,7 +784,7 @@ namespace SharpKeys
       m_hashKeys.Add("00_7A", "Unknown: 0x007A");
       m_hashKeys.Add("00_7B", "Unknown: 0x007B");
       m_hashKeys.Add("00_7C", "Unknown: 0x007C");
-      m_hashKeys.Add("00_7D", "Special: ¥ -");
+      m_hashKeys.Add("00_7D", "Special: Â¥ -");
       m_hashKeys.Add("00_7E", "Unknown: 0x007E");
       m_hashKeys.Add("00_7F", "Unknown: 0x007F");
 
@@ -860,7 +860,7 @@ namespace SharpKeys
       m_hashKeys.Add("E0_42", "F-Lock: Fwd");         //   F8
       m_hashKeys.Add("E0_43", "F-Lock: Send");        //   F9
       m_hashKeys.Add("E0_44", "Unknown: 0xE044");
-      m_hashKeys.Add("E0_45", "Special: €");        //   Euro
+      m_hashKeys.Add("E0_45", "Special: Â€");        //   Euro
       m_hashKeys.Add("E0_46", "Unknown: 0xE046");
       m_hashKeys.Add("E0_47", "Special: Home");
       m_hashKeys.Add("E0_48", "Arrow: Up");
